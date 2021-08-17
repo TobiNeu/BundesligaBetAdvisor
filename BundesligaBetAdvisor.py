@@ -12,7 +12,7 @@ class BundesligaBetAdvisor(QMainWindow):
 
         ### load UI layout
         uic.loadUi('betadvisor.ui', self)
-        self.setWindowTitle('Bet Advisor')
+        self.setWindowTitle('Bundesliga Bet Advisor')
         self.setWindowIcon(QIcon('betadvisor.ico'))
 
         ### connect Buttons, Boxes, Labels, etc.

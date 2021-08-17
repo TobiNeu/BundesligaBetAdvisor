@@ -4,5 +4,5 @@ The program collects information about previous matches of a matchday using webs
 The average result between the respective teams from previous matches is calculated and can be used as an indicator for prediction.
 
 requirements:
-PyQt5
+PyQt5,
 BeautifulSoup
